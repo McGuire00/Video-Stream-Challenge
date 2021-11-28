@@ -1,0 +1,17 @@
+/* .webCam {
+  width: 640;
+  height: 480;
+  background-color: grey;
+} */
+
+/* #webcam {
+  width: 640;
+  height: 600;
+}  */
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
