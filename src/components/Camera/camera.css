@@ -1,17 +1,62 @@
-/* .webCam {
-  width: 640;
-  height: 480;
-  background-color: grey;
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 } */
 
-/* #webcam {
-  width: 640;
-  height: 600;
-}  */
-
 video {
+  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0px;
   display: block;
+  background-color: lightslategray;
 }
 
+/* video{
+  display: block;
+  margin: auto;
+} */
+
+/* .video-container{
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+} */
+
+.btns{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+}
+
+.btn-1{
+  margin-right: 200px;
+  cursor: pointer;
+  width: 8.11rem;
+  padding: 0.77rem 0;
+  border-radius: 54px;
+  background-color: #4169e1;
+  text-align: center;
+  font-size: 0.833rem;
+  transition: background-color 0.25s;
+  border: 0px;
+  color: #fff;
+  font-weight: 500;
+}
+
+.btn-2{
+  cursor: pointer;
+  width: 8.11rem;
+  padding: 0.77rem 0;
+  border-radius: 54px;
+  background-color: #4169e1;
+  text-align: center;
+  font-size: 0.833rem;
+  transition: background-color 0.25s;
+  border: 0px;
+  color: #fff;
+  font-weight: 500;
+}
