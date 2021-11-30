@@ -4,12 +4,6 @@ import Webcam from "webcam-easy";
 import "./camera.css";
 
 function Camera() {
-  // document.addEventListener("DOMContentLoaded", function (event) {
-  //   const webcamElement = document.getElementById("webcam");
-  //   const canvasElement = document.getElementById("canvas");
-  //   const webcam = new Webcam(webcamElement, "user", canvasElement);
-  //   webcam.start()
-  // });
 
   // https://stackoverflow.com/questions/46142783/dom-isnt-loaded-yet-when-react-tries-to-registers-component-which-runs-in-windo
   // document.addEventListener("DOMContentLoaded", function (event) {

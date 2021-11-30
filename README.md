@@ -1,5 +1,11 @@
 # Video-Stream-Challenge
 
+I turned in what I had as I was strapped for time. I did not get the chance the implement the back end. Project is no where near completion but with more time I could've had it up and running without a doubt. I hope to get a chance to speak on my coding abilities and how I would have finished the project. Thank you
+
+- cd Video-Stream-Challenge
+- npm install
+- npm start
+
 # Code Challenge
 
 As you may or may not know, TalkMeUp is trying to help people improve their communication skills through real-time analyzing user performance in front of a webcam and providing instant feedback.
